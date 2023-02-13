@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BANK-LANDING-PAGE/static/css/main.7e59eff8.css",
+    "main.js": "/BANK-LANDING-PAGE/static/js/main.77942775.js",
+    "static/media/image-currency.jpg": "/BANK-LANDING-PAGE/static/media/image-currency.1b385bf9f62bf25ef22d.jpg",
+    "static/media/image-restaurant.jpg": "/BANK-LANDING-PAGE/static/media/image-restaurant.1951b57675babfd83c6c.jpg",
+    "static/media/image-mockups.png": "/BANK-LANDING-PAGE/static/media/image-mockups.48d35b175fe3d36de4ee.png",
+    "static/media/image-plane.jpg": "/BANK-LANDING-PAGE/static/media/image-plane.03db115dff75876c3f3d.jpg",
+    "static/media/image-confetti.jpg": "/BANK-LANDING-PAGE/static/media/image-confetti.67921b1124297023a080.jpg",
+    "static/media/icon-api.svg": "/BANK-LANDING-PAGE/static/media/icon-api.74c8ad1751bbd1e7f545e458f9306885.svg",
+    "static/media/icon-onboarding.svg": "/BANK-LANDING-PAGE/static/media/icon-onboarding.d74aed6429619336a30e42334d6eb432.svg",
+    "static/media/logo.svg": "/BANK-LANDING-PAGE/static/media/logo.699fa324bd437481cf66996129e159bd.svg",
+    "static/media/logo2.svg": "/BANK-LANDING-PAGE/static/media/logo2.efc685ec91e5ce23dcb8f300f949fe13.svg",
+    "static/media/icon-budgeting.svg": "/BANK-LANDING-PAGE/static/media/icon-budgeting.ad7169975ea1eda87072ea0325a8204a.svg",
+    "static/media/bg-intro.svg": "/BANK-LANDING-PAGE/static/media/bg-intro.8be308fd4ce79bd32a09ec5437774701.svg",
+    "static/media/icon-online.svg": "/BANK-LANDING-PAGE/static/media/icon-online.b0622b15741418e9efe3805d1b2ac26b.svg",
+    "index.html": "/BANK-LANDING-PAGE/index.html",
+    "static/media/icon-hamburger.svg": "/BANK-LANDING-PAGE/static/media/icon-hamburger.cd357a1ad3db113ef33187e1a7ecd928.svg",
+    "static/media/icon-close.svg": "/BANK-LANDING-PAGE/static/media/icon-close.6157b2f9cef61f43cfb9afb27dae1ef8.svg",
+    "main.7e59eff8.css.map": "/BANK-LANDING-PAGE/static/css/main.7e59eff8.css.map",
+    "main.77942775.js.map": "/BANK-LANDING-PAGE/static/js/main.77942775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e59eff8.css",
+    "static/js/main.77942775.js"
+  ]
+}
